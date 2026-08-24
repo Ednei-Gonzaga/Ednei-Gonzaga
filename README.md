@@ -39,7 +39,7 @@ Me chamo Ednei Gonzaga e moro em Brasília-DF. Sou estudante de Engenharia de So
 
 ### 🚀 Principais Projetos
 
-* 🔧 **[techFixApi](https://github.com/Ednei-Gonzaga/techFixAPI):** API REST que ainda está em desenvolvimento, estruturada para uma aplicação completa para gerenciamento e organização de Assistências Técnicas.
+* 🔧 **[techFixApi](https://github.com/Ednei-Gonzaga/techFixAPI):** API REST estruturada para uma aplicação completa para gerenciamento e organização de Assistências Técnicas.
 * 🎬 **[DemoFlix](https://github.com/Ednei-Gonzaga/demoflix):** Aplicação desenvolvida para realização completa de consultas de filmes e séries, usando a API TMDB. O projeto foi criado para fixar conteúdos desenvolvidos em HTML, CSS, JavaScript e Java / Spring Boot.
 
 ### 📊 Estatísticas do GitHub
